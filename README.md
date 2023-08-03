@@ -7,3 +7,5 @@ author: @stevenarellano
 ## Multimodal
 
 1. [Image-To-Text](./image-to-text.md)
+2. [Inpainting](./inpainting.md)
+3. [Text-To-Image](./text-to-image.md)

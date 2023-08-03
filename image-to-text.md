@@ -2,7 +2,7 @@
 
 ## Image Captioning
 
-## Subtasks
+## Use-cases
 
 **Optical Character Recognition (OCR)**
 
@@ -11,8 +11,6 @@ What: The process that converts an image of text into a machine-readable text fo
 State:
 
 Problems:
-
-## Use-cases
 
 ## Companies
 
